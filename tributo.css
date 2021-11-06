@@ -1,0 +1,22 @@
+.h1{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+}
+.h2{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+}
+.p{
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+.imagem{
+    text-align: center;
+}
